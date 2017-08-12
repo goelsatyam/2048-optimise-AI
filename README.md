@@ -2,7 +2,7 @@
 
 2048 AI
 
-The algorithm is iterativealpha-beta search. The evaluation function tries to keep the rows and columns either all decreasing or increasing and minimizing the number of tiles on the grid.
+The algorithm is iterative alpha-beta search. The evaluation function tries to keep the rows and columns either all decreasing or increasing and minimizing the number of tiles on the grid.
 
 Run computer.py to test
 
