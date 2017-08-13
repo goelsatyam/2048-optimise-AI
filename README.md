@@ -6,4 +6,4 @@ The algorithm is iterative alpha-beta search. The evaluation function tries to k
 
 Run computer.py to test
 
-It achives max score of 32,288
+It achives max score of 54,708
